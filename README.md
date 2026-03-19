@@ -2,7 +2,7 @@
 
 Generate favicon and app icon files in 17 standard sizes from any image, entirely in the browser.
 
-**Live Demo:** https://file-converter-free.com/en/image-tools/favicon-generator
+**Live Demo:** https://file-converter-free.com/en/image-tools/favicon-generator-online
 
 ## How It Works
 
